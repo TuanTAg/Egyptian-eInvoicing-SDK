@@ -1,6 +1,6 @@
 # Egyptian-eInvoicing-SDK
 Egyptian eInvoicing SDK
-C# Library provide features:
+Java/C# Library provide features:
 1. Build Tax Document (xml and json)
 2. Document Serialization (xml and json). Follow link: https://sdk.invoicing.eta.gov.eg/document-serialization-approach/
 3. Document Signature Creation. Follow link: https://sdk.invoicing.eta.gov.eg/signature-creation/

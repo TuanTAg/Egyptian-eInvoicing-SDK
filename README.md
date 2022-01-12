@@ -7,5 +7,7 @@ C# Library provide features:
 4. Submit Document. Follow link: https://sdk.invoicing.eta.gov.eg/api/05-submit-documents/
 
 All librarys is completed and updating here...
-If you have any questions, please update here or contact: tuantag@gmail.com!
+If you have any questions, contact me: 
+Freelancer: https://www.freelancer.com/u/tuantag
+
 Thanks!
